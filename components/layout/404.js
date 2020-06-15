@@ -9,7 +9,7 @@ const Error404 = () => {
                 text-align: center;
             `}
         >
-            Producto no existente
+            Producto no se puede mostrar
         </h1>
     );
 };
